@@ -1,0 +1,6 @@
+{
+  "name": "DrivePulse Car Rental",
+  "description": "Dynamic, professional car rental management system with rich fleet browsing, real-time filters, instant booking workflows, and booking tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
